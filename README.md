@@ -108,13 +108,6 @@ By completing this project, you will:
 - Identify overfitting and underfitting  
 - Gain practical intuition for deep learning workflows  
 
----
-
-## ✅ Submission Notes
-- The notebook must run without errors  
-- Follow the required folder structure  
-- Each task must be documented in Markdown  
-- Keep explanations concise and clear  
 
 ---
 
